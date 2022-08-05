@@ -1,0 +1,20 @@
+
+body{
+    margin: 0;
+    font-family: "Satoshi",sans-serif;
+}
+
+.hair-img img{
+
+    height: 576px;
+}
+.subheading{
+    color: #888888;;
+    font-size: 13px;
+
+    height: 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;   
+}

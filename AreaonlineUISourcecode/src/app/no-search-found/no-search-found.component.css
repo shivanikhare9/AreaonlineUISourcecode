@@ -1,0 +1,29 @@
+.mainoutofstock{
+    width: 335px;
+    height: 481px;
+    margin: auto;
+}
+
+.mainoutofstockbutton{
+    background: linear-gradient(180deg, #3F3F3F -34.38%, #101010 100%);
+    border-radius: 8px;
+    width: 157px;
+    height: 22px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 22px;
+    width: 335px;
+    height: 48px;
+    border:0;
+    color: white;
+}
+
+.mainfinalresultpadding{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 1440px;
+    height: 561px;
+}
